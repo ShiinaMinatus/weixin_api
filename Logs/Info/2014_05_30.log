@@ -1,0 +1,40 @@
+May 30 14:43:07 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:43:40 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:44:04 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:44:34 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:46:00 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:46:18 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:46:22 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:46:55 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:48:47 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:48:47 [RETURN]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"error":{"error_status":106,"status_info":"\u6570\u636e\u5e93\u4e0d\u5b58\u5728"}}
+May 30 14:49:29 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:49:46 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:55:01 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 14:55:01 [RETURN]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"error":{"error_status":20004,"status_info":"\u7528\u6237\u672a\u6ce8\u518c"}}
+May 30 15:10:16 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 15:10:16 [RETURN]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"error":{"error_status":20004,"status_info":"\u7528\u6237\u672a\u6ce8\u518c"}}
+May 30 15:13:56 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=oIUY-tzrbgDs3i0RahdQ3lauZWis
+{"source":"jiantang","open_id":"oIUY-tzrbgDs3i0RahdQ3lauZWis"}
+May 30 15:13:56 [RETURN]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=oIUY-tzrbgDs3i0RahdQ3lauZWis
+{"user":{"user_id":"28","user_open_id":"oIUY-tzrbgDs3i0RahdQ3lauZWis","user_name":"\u66fe\u53d1\u8fbe","user_phone":"13459049167","sex":"1","birthday":"126288000","user_money":"0","user_integration":"0","user_state":"0","province_id":"0","city_id":"0","area_id":"0","street":null,"real_name":null,"address_phone":"13459049167","source":"","create_time":""},"weixin_user":{"subscribe":"1","openid":"oIUY-tzrbgDs3i0RahdQ3lauZWis","nickname":"\u66fe\u53d1\u8fbe","sex":"1","language":"zh_CN","city":"Xiamen","province":"Fujian","country":"China","headimgurl":"http:\/\/wx.qlogo.cn\/mmopen\/dWYcndbpDnY3sNoxOic0Z9gl5ics1lC0fDnxVuIGxMB4FH0h0IkicANeiauNHn0fkib0BiaicibNo0cB3r4mibOqtdfnFsA\/0","subscribe_time":"1397840025","weixin_user_id":"0"}}
+May 30 17:00:12 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}
+May 30 17:01:23 [COME]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+{"source":"jiantang","open_id":"1234"}

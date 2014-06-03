@@ -1,0 +1,36 @@
+[30-May-2014 14:43:07 PRC] PHP Warning:  include_once(/web/www/newapi//Lib/Jiantang/Controllers/MODULE_DIR/UserController.class.php): failed to open stream: No such file or directory in /web/www/newapi/Config/bootstrap/extends.php on line 515
+[30-May-2014 14:43:07 PRC] PHP Stack trace:
+[30-May-2014 14:43:07 PRC] PHP   1. {main}() /web/www/newapi/index.php:0
+[30-May-2014 14:43:07 PRC] PHP   2. website->run() /web/www/newapi/index.php:10
+[30-May-2014 14:43:07 PRC] PHP   3. website->initializationTest() /web/www/newapi/Config/bootstrap/bootstrap.php:40
+[30-May-2014 14:43:07 PRC] PHP   4. R($url = '/user/get_info', $dir = 'User', $vars = *uninitialized*) /web/www/newapi/Config/bootstrap/bootstrap.php:80
+[30-May-2014 14:43:07 PRC] PHP   5. A($module = '/user', $dir = 'User', $ext = *uninitialized*, $file = *uninitialized*) /web/www/newapi/Config/bootstrap/extends.php:485
+[30-May-2014 14:43:07 PRC] PHP Warning:  include_once(): Failed opening '/web/www/newapi//Lib/Jiantang/Controllers/MODULE_DIR/UserController.class.php' for inclusion (include_path='.:') in /web/www/newapi/Config/bootstrap/extends.php on line 515
+[30-May-2014 14:43:07 PRC] PHP Stack trace:
+[30-May-2014 14:43:07 PRC] PHP   1. {main}() /web/www/newapi/index.php:0
+[30-May-2014 14:43:07 PRC] PHP   2. website->run() /web/www/newapi/index.php:10
+[30-May-2014 14:43:07 PRC] PHP   3. website->initializationTest() /web/www/newapi/Config/bootstrap/bootstrap.php:40
+[30-May-2014 14:43:07 PRC] PHP   4. R($url = '/user/get_info', $dir = 'User', $vars = *uninitialized*) /web/www/newapi/Config/bootstrap/bootstrap.php:80
+[30-May-2014 14:43:07 PRC] PHP   5. A($module = '/user', $dir = 'User', $ext = *uninitialized*, $file = *uninitialized*) /web/www/newapi/Config/bootstrap/extends.php:485
+[30-May-2014 14:46:22 PRC] PHP Fatal error:  Class 'jiantangPlug' not found in /web/www/newapi/Controllers/User/UserController.class.php on line 23
+[30-May-2014 14:46:22 PRC] PHP Stack trace:
+[30-May-2014 14:46:22 PRC] PHP   1. {main}() /web/www/newapi/index.php:0
+[30-May-2014 14:46:22 PRC] PHP   2. website->run() /web/www/newapi/index.php:10
+[30-May-2014 14:46:22 PRC] PHP   3. website->initializationTest() /web/www/newapi/Config/bootstrap/bootstrap.php:40
+[30-May-2014 14:46:22 PRC] PHP   4. R($url = '/user/get_info', $dir = 'User', $vars = *uninitialized*) /web/www/newapi/Config/bootstrap/bootstrap.php:80
+[30-May-2014 14:46:22 PRC] PHP   5. A($module = '/user', $dir = 'User', $ext = *uninitialized*, $file = *uninitialized*) /web/www/newapi/Config/bootstrap/extends.php:485
+[30-May-2014 14:46:22 PRC] PHP   6. MainUserController->__construct() /web/www/newapi/Config/bootstrap/extends.php:523
+[30-May-2014 14:46:55 PRC] PHP Fatal error:  Class 'userModel' not found in /web/www/newapi/Controllers/User/UserController.class.php on line 129
+[30-May-2014 14:46:55 PRC] PHP Stack trace:
+[30-May-2014 14:46:55 PRC] PHP   1. {main}() /web/www/newapi/index.php:0
+[30-May-2014 14:46:55 PRC] PHP   2. website->run() /web/www/newapi/index.php:10
+[30-May-2014 14:46:55 PRC] PHP   3. website->initializationTest() /web/www/newapi/Config/bootstrap/bootstrap.php:40
+[30-May-2014 14:46:55 PRC] PHP   4. R($url = '/user/get_info', $dir = 'User', $vars = *uninitialized*) /web/www/newapi/Config/bootstrap/bootstrap.php:80
+[30-May-2014 14:46:55 PRC] PHP   5. call_user_func_array(array (0 => class UserController {  }, 1 => 'get_info'), array ()) /web/www/newapi/Config/bootstrap/extends.php:490
+[30-May-2014 14:46:55 PRC] PHP   6. MainUserController->get_info() /web/www/newapi/Config/bootstrap/extends.php:490
+[30-May-2014 14:49:39 PRC] PHP Parse error:  parse error in /web/www/newapi/Config/DB/4Basic.super.php on line 41
+[30-May-2014 14:49:39 PRC] PHP Stack trace:
+[30-May-2014 14:49:39 PRC] PHP   1. {main}() /web/www/newapi/index.php:0
+[30-May-2014 14:49:39 PRC] PHP   2. website->run() /web/www/newapi/index.php:10
+[30-May-2014 14:49:39 PRC] PHP   3. include_path_file($dirName = array (0 => 'DB'), $fileKey = 'Config') /web/www/newapi/Config/bootstrap/bootstrap.php:30
+[30-May-2014 14:49:39 PRC] PHP   4. fileRead($filePath = '/web/www/newapi/Config/DB/') /web/www/newapi/Config/bootstrap/extends.php:266

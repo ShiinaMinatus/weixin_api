@@ -1,0 +1,8 @@
+May 30 14:55:01 [SQL]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+SELECT * FROM weixin_jiantang.user  WHERE 1  AND user_open_id like "1234"     
+May 30 15:10:16 [SQL]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=1234
+SELECT * FROM weixin_jiantang.user  WHERE 1  AND user_open_id like "1234"     
+May 30 15:13:56 [SQL]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=oIUY-tzrbgDs3i0RahdQ3lauZWis
+SELECT * FROM weixin_jiantang.user  WHERE 1  AND user_open_id like "oIUY-tzrbgDs3i0RahdQ3lauZWis"     
+May 30 15:13:56 [SQL]_null_0.0.0.0_/newapi/user/get_info/?source=jiantang&open_id=oIUY-tzrbgDs3i0RahdQ3lauZWis
+SELECT * FROM weixin_jiantang.weixin_user  WHERE 1  AND openid like "oIUY-tzrbgDs3i0RahdQ3lauZWis"     
